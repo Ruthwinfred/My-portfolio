@@ -1,10 +1,11 @@
 /* Table of contents */
-/* 01.Navbar
+/* 01.Navbar*/
 
 body{
     font-family: 'Times New Roman', Times, serif;
     height: 500px;
 }
+
 
 /* 01. Navbar */
 .navbar{
@@ -12,9 +13,9 @@ body{
     padding: 25px 0;
 }
 .log{
-    width: 50px;
-    height: 50px;
-    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    /* border-radius: 50%; */
 }
 .navbar .nav-item{
     font-size: 14px;
@@ -23,4 +24,24 @@ body{
 }
 .navbar .nav-item .navlink{
     color: #7d8792;
+}
+
+.navbar .nav-item .navlink:hover{
+color: #ffffff;
+}
+.navbar .navbar-nav .dropdown .dropdown-menu{
+    margin-top: 25px;
+    background: #212222;
+}
+.navbar .navbar-nav .dropdown span{
+    font-size: 10px;
+    margin-left: 3px;
+}
+.navbar .navbar-nav .dropdown .dropdown-menu a{
+    font-size: 16px;
+    color: #ffffff;
+    margin-bottom: 10px;
+}
+.navbar .navbar-nav .dropdown .dropdown-menu a:hover{
+    background: #e0a80d;
 }
