@@ -21,15 +21,13 @@ Table of contents
 
 body {
     font-family: 'Muli', sans-serif;
-    height: 5000px;
 }
 
 /* ==========================
    [01]. Navbar
 ========================== */
 .navbar {
-    background: #2b2c2c !important;
-    padding: 25px 0;
+    background: #1810b5 !important;
 }
 
 .navbar .nav-item {
@@ -39,7 +37,7 @@ body {
 }
 
 .navbar .nav-item .nav-link {
-    color: #7d8792;
+    color: #e1e6eb;
 }
 
 .navbar .nav-item .nav-link:hover {
@@ -47,7 +45,7 @@ body {
 }
 .navbar .navbar-nav .dropdown .dropdown-menu {
     margin-top: 25px;
-    background:#212222;
+    background:#132fce;
 }
 
 .navbar .navbar-nav .dropdown span {
@@ -62,7 +60,7 @@ body {
 }
 
 .navbar .navbar-nav .dropdown .dropdown-menu a:hover {
-    background: #e0a80d;
+    background: #0d14e0;
 }
 .log{
     border-radius: 50%;
@@ -102,7 +100,7 @@ body {
     font-family: 'Muli', sans-serif !important;
     font-weight: 700;
     text-transform: uppercase;
-    color: #e0a80d;
+    color: #eef0fa;
 }
 
 
@@ -152,7 +150,7 @@ body {
 
 .about-me {
     padding: 130px 0;
-    background: #2d2e2e;
+    background: #919494;
 }
 
 .about-me img {
@@ -162,7 +160,7 @@ body {
 .about-me h2 {
     font-size: 30px;
     font-weight: 800;
-    color: #e0a80d;
+    color: #ebecf3;
 }
 
 .about-me p {
@@ -174,7 +172,7 @@ body {
 }
 
 .about-me .btn-1 {
-    background: #e0a80d;
+    background: #0d49e0;
     border-radius: 35px;
     padding: 10px 30px;
     font-size: 14px;
@@ -185,7 +183,7 @@ body {
 }
 
 .about-me .btn-2 {
-    border: 2px solid #e0a80d;
+    border: 2px solid #110de0;
     border-radius: 35px;
     padding: 10px 50px;
     font-size: 14px;
