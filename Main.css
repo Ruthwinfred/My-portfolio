@@ -67,6 +67,12 @@ body {
     width: 80px;
     height: 80px;
 }
+.aud{
+    width: 100px;
+    height: 20px;
+    margin-top: 9px;
+    margin-right: 150px;
+}
 #img{
     height: 350px;
     width: 300px;
